@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Biography of Gwen</title>
+    <link href="C:\Users\padua\Desktop\TEMPLATE VSCODE\style.css" rel="stylesheet" type="text/css"/>
+</head>
+<body>
+    <center>
+    <table width="700px" border="1">
+        <tr>
+            <td rowspan="2">
+            <img src="ID KO TALAGA.jpg" alt="ID Full Body 1x1" width="100%">
+            <th width="500px" height="50px" bgcolor="LightSkyBlue">My Biography<th>
+        </tr>
+        <tr>
+            <td>
+                <u1>
+                    <li>Name: Gwen Padua</li>
+                    <li>Birth Date: August 14, 2003</li>
+                    <li>Address: Ligao City</li>
+                    <li>Status: committed sa no label rs</li>
+                    <li>Hobbies: ang hobby ko po ay iprepare lahat ng activities ko sa mesa at magselpon.</li>
+                <u1>
+            </td>        
+        </tr>
+        <tr>
+            <th colspan="2" height="50px" bgcolor="PaleGreen">About Me</th>
+        </tr>
+        <tr>
+            <td colspan="2">
+                <p>My name is Gwen Padua. I am a sophomore student of Bachelor of Science in Information Systems in Bicol University Polangui. I'm currently learning web systems development and how to be a developer by starting out with HTML and CSS.</p>
+                <p>wala na pi ako masabi hehe. Lf engineering student</p>
+            </td>
+        </tr>
+        <tr>
+            <th colspan="2" height="50px" bgcolor="PaleGreen">Social Media</th>
+        </tr>
+        <tr>
+            <td colspan="2">
+                <p> You can reach me at :</p>
+                <u1>
+                    <li><a href="https://www.youtube.com/channel/UC1kv17y3UroAeRaSJB3ii_Q">YouTube</a></li>
+                    <li><a href="https://www.instagram.com/gwenxiee_/">Instagram<a></li>
+                    <li><a href="https://github.com/gwypods">Github</a></li>
+                </u1>        
+            </td>
+        <tr>
+    </table>
+    </center>
+</body>
+</html>
